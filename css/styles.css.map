@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAQA,KAAK,CACD,KAAK,CANF,OAAO,CAQd,MAAM,CACF,KAAK,CARD,IAAO,CCJf,EAAE,CACE,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,MAAM,CACnB,KAAK,CDCD,IAAO,CEIf,IAAI,CACA,OAAO,CAAE,CAAC,CACV,MAAM,CAAE,CAAC,CACT,UAAU,CFRP,OAAO",
+"sources": ["../sass/_colors.sass","../sass/_typography.sass","../sass/styles.sass"],
+"names": [],
+"file": "styles.css"
+}
