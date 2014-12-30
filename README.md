@@ -1,4 +1,4 @@
-# This is a simple sass/ starter 
+## This is a simple Sass starter 
 
 To compile code, do ONE of the following: 
 
